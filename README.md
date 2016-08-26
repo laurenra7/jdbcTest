@@ -3,6 +3,8 @@ Test JDBC connection using Oracle JDBC driver.
 
 See pom.xml for what driver version is used. Currently OJDBC6 version 11.2.0.3.0.
 
+# NOTE: this is an early version. Use the one in jdbc-test-oracle or jdbc-test-mysql instead.
+
 **Build it:** 
 
 ```shell
